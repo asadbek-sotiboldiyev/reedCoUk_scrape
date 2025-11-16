@@ -1,0 +1,8 @@
+.env
+.venv
+.idea
+.vscode
+__pycache__
+*_log.txt
+*.xlsx
+genai_test.py
