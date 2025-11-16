@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from websitefilter import applytimerange, searching
 import time
 from firstdataextraction import getinfo
-from specificdata import extractspecificinfohtml, extractspecificinfo, extract_with_bs4
+from specificdata import extract_with_bs4
 from aititlefilter import filtercolumns
 from selenium import webdriver
 from selenium.webdriver.common.by import By
